@@ -1,4 +1,4 @@
-# Q3-Web3
+# Q3-Web3.js
 
 Roll No: IOT045448 
 
